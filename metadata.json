@@ -1,0 +1,6 @@
+{
+  "name": "Ethiack - Autonomous Ethical Hacking & Exposure Management",
+  "description": "Enterprise autonomous ethical hacking and continuous attack surface management platform with real-time public DNS and security header analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
